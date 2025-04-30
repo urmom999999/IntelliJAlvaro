@@ -14,8 +14,6 @@ public class Main {
         int numClases= sc.nextInt();
         sc.nextLine();
 
-
-
         for (int i=0; i <numClases; i++) {
             System.out.println("Introduce el curso: ");
             //Para guardar los datos
