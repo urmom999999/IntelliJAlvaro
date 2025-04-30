@@ -6,10 +6,8 @@ public class Main {
             System.out.print("Ancho: ");
             int ancho = scanner.nextInt();
 
-
             System.out.print("Alto: ");
             int alto = scanner.nextInt();
-
 
             Rectangulo rectangulo = new Rectangulo(ancho, alto);
             rectangulo.dibujar();
